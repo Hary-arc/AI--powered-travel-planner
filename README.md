@@ -1,4 +1,5 @@
-🌍 # AI-Powered Travel Planner
+🌍## AI-Powered Travel Planner
+
 Welcome to the AI-Powered Travel Planner, your intelligent assistant for organizing personalized travel experiences. Powered by artificial intelligence, this application helps you discover destinations, plan itineraries, estimate costs, and optimize your entire trip based on your preferences.
 
 ✨ Features
